@@ -1,0 +1,8 @@
+<gallery>
+  <album name="&lt;font size=&quot;12&quot; face=&quot;Arial&quot; color=&quot;#FFFFFF&quot;&gt;Album&lt;/font&gt;" description="&lt;font size=&quot;12&quot; face=&quot;Arial&quot; color=&quot;#FFFFFF&quot;&gt;Album Description Here&lt;/font&gt;">
+    <slide type="img" src="images/bg_wrapperheader.jpg" tnsrc="images/tn_bg_wrapperheader.jpg" effect="star" duration="4" effectspeed="3" name="&lt;font size=&quot;12&quot; face=&quot;Arial&quot; color=&quot;#FFFFFF&quot;&gt;bg_wrapperheader.jpg&lt;/font&gt;"/>
+    <slide type="img" src="images/banner1.jpg" tnsrc="images/tn_banner1.jpg" effect="rollleft" duration="4" effectspeed="3" name="&lt;font size=&quot;12&quot; face=&quot;Arial&quot; color=&quot;#FFFFFF&quot;&gt;banner1.jpg&lt;/font&gt;"/>
+    <slide type="img" src="images/banner2.jpg" tnsrc="images/tn_banner2.jpg" effect="faderightin" duration="4" effectspeed="3" name="&lt;font size=&quot;12&quot; face=&quot;Arial&quot; color=&quot;#FFFFFF&quot;&gt;banner2.jpg&lt;/font&gt;"/>
+    <slide type="img" src="images/banner3.jpg" tnsrc="images/tn_banner3.jpg" effect="rolltop" duration="4" effectspeed="3" name="&lt;font size=&quot;12&quot; face=&quot;Arial&quot; color=&quot;#FFFFFF&quot;&gt;banner3.jpg&lt;/font&gt;"/>
+  </album>
+</gallery>

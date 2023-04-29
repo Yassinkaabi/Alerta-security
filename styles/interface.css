@@ -1,0 +1,206 @@
+@charset "utf-8";
+/* CSS Document */
+
+header#branding {
+    background: url("img/bg_wrapperheader.jpg") repeat scroll 0% 0% transparent;
+        background-color: transparent;
+        background-image: url("img/bg_wrapperheader.jpg");
+        background-repeat: repeat;
+        background-attachment: scroll;
+        background-position: 0% 0%;
+        background-clip: border-box;
+        background-origin: padding-box;
+        background-size: auto auto;
+    height: 213px;
+    box-shadow: 0px 0px 10px rgb(85, 85, 85);
+}
+#headerdroit {
+    float: right;
+    margin-right: 20px;
+        margin-right-value: 20px;
+        margin-right-ltr-source: physical;
+        margin-right-rtl-source: physical;
+}
+#logoadress {
+    float: left;
+}
+#bordureG {
+    background: url("img/bordureG_menu.png") no-repeat scroll 0% 0% transparent;
+        background-color: transparent;
+        background-image: url("img/bordureG_menu.png");
+        background-repeat: no-repeat;
+        background-attachment: scroll;
+        background-position: 0% 0%;
+        background-clip: border-box;
+        background-origin: padding-box;
+        background-size: auto auto;
+    margin-left: -16px;
+        margin-left-value: -16px;
+        margin-left-ltr-source: physical;
+        margin-left-rtl-source: physical;
+    margin-top: -14px;
+    position: absolute;
+    height: 47px;
+    width: 16px;
+}
+#bordureD {
+    background: url("img/bordureD_menu.png") no-repeat scroll 0% 0% transparent;
+        background-color: transparent;
+        background-image: url("img/bordureD_menu.png");
+        background-repeat: no-repeat;
+        background-attachment: scroll;
+        background-position: 0% 0%;
+        background-clip: border-box;
+        background-origin: padding-box;
+        background-size: auto auto;
+    margin-left: 1000px;
+        margin-left-value: 1000px;
+        margin-left-ltr-source: physical;
+        margin-left-rtl-source: physical;
+    margin-top: -14px;
+    position: absolute;
+    height: 47px;
+    width: 16px;
+}
+#mainnav {
+    background: url("img/bg_menu.png") repeat-x scroll 0% 0% transparent;
+        background-color: transparent;
+        background-image: url("img/bg_menu.png");
+        background-repeat: repeat-x;
+        background-attachment: scroll;
+        background-position: 0% 0%;
+        background-clip: border-box;
+        background-origin: padding-box;
+        background-size: auto auto;
+    height: 34px;
+}
+#wrap {
+    padding: 20px;
+        padding-top: 20px;
+        padding-right-value: 20px;
+        padding-bottom: 20px;
+        padding-left-value: 20px;
+        padding-left-ltr-source: physical;
+        padding-left-rtl-source: physical;
+        padding-right-ltr-source: physical;
+        padding-right-rtl-source: physical;
+    overflow: hidden;
+        overflow-x: hidden;
+        overflow-y: hidden;
+    box-shadow: 0px 0px 10px rgb(85, 85, 85);
+}
+#surfootercontent {
+    width: 1000px;
+    margin: 0px auto;
+        margin-top: 0px;
+        margin-right-value: auto;
+        margin-bottom: 0px;
+        margin-left-value: auto;
+        margin-left-ltr-source: physical;
+        margin-left-rtl-source: physical;
+        margin-right-ltr-source: physical;
+        margin-right-rtl-source: physical;
+    height: 18px;
+    background: url("img/bg_topwrapperfooter.jpg") repeat scroll 0% 0% transparent;
+        background-color: transparent;
+        background-image: url("img/bg_topwrapperfooter.jpg");
+        background-repeat: repeat;
+        background-attachment: scroll;
+        background-position: 0% 0%;
+        background-clip: border-box;
+        background-origin: padding-box;
+        background-size: auto auto;
+}
+#colophon {
+    background: url("img/bg_wrapperfooter.jpg") repeat scroll 0% 0% transparent;
+        background-color: transparent;
+        background-image: url("img/bg_wrapperfooter.jpg");
+        background-repeat: repeat;
+        background-attachment: scroll;
+        background-position: 0% 0%;
+        background-clip: border-box;
+        background-origin: padding-box;
+        background-size: auto auto;
+    padding: 15px 20px;
+        padding-top: 15px;
+        padding-right-value: 20px;
+        padding-bottom: 15px;
+        padding-left-value: 20px;
+        padding-left-ltr-source: physical;
+        padding-left-rtl-source: physical;
+        padding-right-ltr-source: physical;
+        padding-right-rtl-source: physical;
+    width: 960px;
+    color: white;
+    box-shadow: 0px 10px 10px rgb(85, 85, 85);
+}
+#signature {
+    position: fixed;
+    background-color: rgb(114, 26, 76);
+    color: white;
+    bottom: 0px;
+    width: 100%;
+    z-index: 100;
+}
+#footer {
+    background: url("img/bg_footer.jpg") repeat scroll 0% 0% transparent;
+        background-color: transparent;
+        background-image: url("img/bg_footer.jpg");
+        background-repeat: repeat;
+        background-attachment: scroll;
+        background-position: 0% 0%;
+        background-clip: border-box;
+        background-origin: padding-box;
+        background-size: auto auto;
+    position: relative;
+    top: -7px;
+}
+#surfootercontent {
+    width: 1000px;
+    margin: 0px auto;
+        margin-top: 0px;
+        margin-right-value: auto;
+        margin-bottom: 0px;
+        margin-left-value: auto;
+        margin-left-ltr-source: physical;
+        margin-left-rtl-source: physical;
+        margin-right-ltr-source: physical;
+        margin-right-rtl-source: physical;
+    height: 18px;
+    background: url("img/bg_topwrapperfooter.jpg") repeat scroll 0% 0% transparent;
+        background-color: transparent;
+        background-image: url("img/bg_topwrapperfooter.jpg");
+        background-repeat: repeat;
+        background-attachment: scroll;
+        background-position: 0% 0%;
+        background-clip: border-box;
+        background-origin: padding-box;
+        background-size: auto auto;
+}
+#wrapper {
+    clear: both;
+    background: url("img/bg_content.jpg") repeat scroll 0% 0% transparent;
+        background-color: transparent;
+        background-image: url("img/bg_content.jpg");
+        background-repeat: repeat;
+        background-attachment: scroll;
+        background-position: 0% 0%;
+        background-clip: border-box;
+        background-origin: padding-box;
+        background-size: auto auto;
+    position: relative;
+    top: -7px;
+}
+body {
+    background: url("img/bg_header.jpg") repeat-x scroll 0% 0% transparent;
+        background-color: transparent;
+        background-image: url("img/bg_header.jpg");
+        background-repeat: repeat-x;
+        background-attachment: scroll;
+        background-position: 0% 0%;
+        background-clip: border-box;
+        background-origin: padding-box;
+        background-size: auto auto;
+    font-family: arial,sans-serif;
+    color: black;
+}

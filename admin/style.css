@@ -1,0 +1,16 @@
+@charset "utf-8";
+/* CSS Document */
+legend{
+	display:block;
+	background-color:#09F;
+	color:#FFF;
+	font-weight:bolder;
+	text-transform:uppercase;
+	font-size:16px;
+}
+fieldset{
+	border-color:#009;
+}
+table{
+	background-color:#DFDFDF;
+}

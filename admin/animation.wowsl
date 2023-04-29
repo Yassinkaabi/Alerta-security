@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VisualLightBox>
+    <Gallery version="2.5">
+        <Settings>
+            <AppName>WOW Slider</AppName>
+            <AppUrlS>WOWSlider.com</AppUrlS>
+            <AppVersion>8.8</AppVersion>
+            <AutoPlay>true</AutoPlay>
+            <AutoPlayVideo>false</AutoPlayVideo>
+            <Captions>false</Captions>
+            <CaptionsEffect>parallax</CaptionsEffect>
+            <Controls>false</Controls>
+            <FontSize>13</FontSize>
+            <FullScreen>false</FullScreen>
+            <GalleryName>animation</GalleryName>
+            <GallerySuffix>1</GallerySuffix>
+            <HtmlCharset>UTF-8</HtmlCharset>
+            <ImageAspectRatio>true</ImageAspectRatio>
+            <ImageEffect>glass_parallax,parallax,brick,cube</ImageEffect>
+            <ImageFillColor>#000000</ImageFillColor>
+            <ImageHeight>200</ImageHeight>
+            <ImageQuality>80</ImageQuality>
+            <ImageShrink2>false</ImageShrink2>
+            <ImageStretch>true</ImageStretch>
+            <ImageTemplate>C:/Program Files (x86)/WOW Slider/templates/backgnd/convex/</ImageTemplate>
+            <ImageTemplateName>Convex</ImageTemplateName>
+            <ImageWidth>1024</ImageWidth>
+            <Images>true</Images>
+            <JoomlaType>2.5</JoomlaType>
+            <OneLoop>false</OneLoop>
+            <OrderRandom>false</OrderRandom>
+            <PlayPause>true</PlayPause>
+            <Preloader>false</Preloader>
+            <PublishFileName>C:/Users/zied/Documents\WOW Slider/wowslider.html</PublishFileName>
+            <PublishIndex>wowslider.html</PublishIndex>
+            <PublishPath>C:/Users/zied/Documents\WOW Slider</PublishPath>
+            <PublishPreview>true</PublishPreview>
+            <PublishType>file</PublishType>
+            <RelativePath>false</RelativePath>
+            <ShowBullets>1</ShowBullets>
+            <ShowControls>false</ShowControls>
+            <ShowTooltips>1</ShowTooltips>
+            <SizeStyle>1</SizeStyle>
+            <SlideshowDelay>20</SlideshowDelay>
+            <SlideshowDuration>20</SlideshowDuration>
+            <SoundEnable>0</SoundEnable>
+            <SoundFileName></SoundFileName>
+            <StopOnHover>false</StopOnHover>
+            <SwipeSupport>2</SwipeSupport>
+            <TemplateColor>#54acd2</TemplateColor>
+            <TemplateFont>Gurajada</TemplateFont>
+            <TemplateName>convex</TemplateName>
+            <ThumbAlign>bottom</ThumbAlign>
+            <ThumbFormat>jpg</ThumbFormat>
+            <ThumbHeight>48</ThumbHeight>
+            <ThumbQuality>90</ThumbQuality>
+            <ThumbWidth>0</ThumbWidth>
+            <Thumbnails>false</Thumbnails>
+            <TooltipPos>bottom</TooltipPos>
+            <noFrame>0</noFrame>
+        </Settings>
+        <Images RelativePath="false">
+            <Image>
+                <url>C:/wamp/www/alerta_security/images/banner1.jpg</url>
+                <title>banner1</title>
+                <filesize>49376</filesize>
+            </Image>
+            <Image>
+                <url>C:/wamp/www/alerta_security/images/banner2.jpg</url>
+                <title>banner2</title>
+                <filesize>65151</filesize>
+            </Image>
+            <Image>
+                <url>C:/wamp/www/alerta_security/images/banner3.jpg</url>
+                <title>banner3</title>
+                <filesize>36076</filesize>
+            </Image>
+            <Image>
+                <url>C:/wamp/www/alerta_zied/admin/data1/images/5_banner3970x331.jpg</url>
+                <title>5_banner3970x331</title>
+                <filesize>26078</filesize>
+            </Image>
+            <Image>
+                <url>C:/wamp/www/alerta_zied/admin/data1/images/20150407220217377.jpg</url>
+                <title>20150407220217377</title>
+                <filesize>22540</filesize>
+            </Image>
+            <Image>
+                <url>C:/wamp/www/alerta_zied/admin/data1/images/banner_guardian.jpg</url>
+                <title>banner_guardian</title>
+                <filesize>31284</filesize>
+            </Image>
+            <Image>
+                <url>C:/wamp/www/alerta_zied/admin/data1/images/gsm_alarm_system_banner_f.jpg</url>
+                <title>gsm_alarm_system_banner_f</title>
+                <filesize>20486</filesize>
+            </Image>
+        </Images>
+    </Gallery>
+</VisualLightBox>
